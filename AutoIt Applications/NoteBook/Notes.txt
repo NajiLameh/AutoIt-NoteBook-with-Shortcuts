@@ -1,0 +1,16 @@
+10/18/2023 00:08:37
+CENG415:ask the doctor about delay in lesson 1 delay example: is the
+processing delay calculated once or calculated again at each packet 
+sending
+
+10/29/2023 17:58:53
+CENG435: the request code idea 
+
+10/31/2023 10:19:19
+CENG430L: 
+4.lab 3 the ls -lh command
+5.lab 3 umask editing(permission wanted = 0777 - umask)
+6.lab 3 the idea of resolving of argument 0 in output redirection
+
+11/03/2023 15:03:24
+CENG400L: LCD interfacing code the send data is not working as intended the data is shifting one column and if i dont use dec zl the first character is skipped
